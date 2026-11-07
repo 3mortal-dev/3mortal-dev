@@ -1,6 +1,5 @@
 <img src="assets/xenith.jpg" width="100%">
 
-<img src="assets/3mortal-dev-profile-banner.svg" width="100%">
 
 # 💫 About Me:
 AI Engineering student & Freelance Data Scientist based in Egypt. I build machine learning pipelines, design complex databases, and write cross-platform desktop applications in C++ and Java. Powered by Neovim and Linux.
